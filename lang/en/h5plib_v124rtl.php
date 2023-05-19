@@ -18,7 +18,7 @@
  * Strings for component 'h5p_v124'
  *
  * @package    h5plib_v124rtl
- * @copyright  2019 Andrew Nicols <andrew@nicols.co.uk>
+ * @copyright  2023 Tamir Hajaj <tamir@sysbind.co.il>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

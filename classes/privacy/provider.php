@@ -18,7 +18,7 @@
  * Privacy provider implementation for the version 1.24 of the H5P library.
  *
  * @package    h5plib_v124rtl
- * @copyright  2020 Sara Arjona <sara@moodle.com>
+ * @copyright  2023 Tamir Hajaj <tamir@sysbind.co.il>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

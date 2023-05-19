@@ -30,7 +30,7 @@ defined('MOODLE_INTERNAL') || die();
  * Handler for the version 1.24 of the H5P library.
  *
  * @package    h5plib_v124rtl
- * @copyright  2019 Sara Arjona <sara@moodle.com>
+ * @copyright  2023 Tamir Hajaj <tamir@sysbind.co.il>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class handler extends \core_h5p\local\library\handler {

@@ -18,7 +18,7 @@
  * Version information.
  *
  * @package   h5plib_v124rtl
- * @copyright 2019 Andrew Nicols <andrew@nicols.co.uk>
+ * @copyright 2023 Avi Levy <avi@sysbind.co.il>
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
