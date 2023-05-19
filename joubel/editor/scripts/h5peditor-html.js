@@ -80,12 +80,11 @@ ns.Html.prototype.createToolbar = function () {
     name: "justify",
     items: ["JustifyLeft", "JustifyCenter", "JustifyRight"]
   });
-  // Directionality is added to all wysiwygs
+
   toolbar.push({
     name: "bidi",
     items: ["BidiLtr", "BidiRtl"]
   });
-}
 
   // Paragraph styles
   if (this.inTags("ul")) {

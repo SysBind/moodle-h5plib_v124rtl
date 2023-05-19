@@ -73,7 +73,7 @@ ns.Editor = function (library, defaultParams, replace, iframeLoaded) {
       ? metadata.defaultLanguage : ns.contentLanguage;
     iframe.contentDocument.open();
     iframe.contentDocument.write(
-        '<!doctype html><html dir="' +  parentHtml.dir  + '" lang="' + language +'" xml:lang="' + parentHtml.lang + '">' +
+      '<!doctype html><html dir="' + parentHtml.dir + '" lang="' + language + '">' +
       '<head>' +
       ns.wrap('<link rel="stylesheet" href="', ns.assets.css, '">') +
       ns.wrap('<script src="', ns.assets.js, '"></script>') +
