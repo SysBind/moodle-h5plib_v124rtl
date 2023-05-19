@@ -24,8 +24,6 @@
 
 namespace h5plib_v124rtl\local\library;
 
-defined('MOODLE_INTERNAL') || die();
-
 /**
  * Handler for the version 1.24 of the H5P library.
  *
