@@ -41,6 +41,6 @@ class handler extends \core_h5p\local\library\handler {
      * @return string
      */
     public static function get_h5p_version(): string {
-        return '124';
+        return '124rtl';
     }
 }

@@ -241,6 +241,6 @@ $string['editor:warningnocontenttypesinstalled'] = 'You don\'t have any content 
 $string['editor:warningupdateavailablebody'] = 'Update to the latest version for an improved experience.';
 $string['editor:warningupdateavailabletitle'] = 'A new version of :contentType is available.';
 $string['editor:width'] = 'width';
-$string['pluginname'] = 'H5P framework v1.24';
+$string['pluginname'] = 'H5P framework v1.24 RTL';
 $string['pluginname_help'] = 'H5P framework version 1.24.';
 $string['privacy:metadata'] = 'The H5P framework v1.24 does not store any personal data.';
